@@ -1,0 +1,6 @@
+Features:
+- Added custom QS Panel themes
+----------------------------------------
+Bugfixes:
+- Updated kernel with upstream
+- Updated with newet Evolution X sources 
